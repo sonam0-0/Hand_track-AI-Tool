@@ -1,0 +1,10 @@
+*.dylib
+*.so
+*.dll
+*.pyd
+mydemo/myenv/
+mydemo/lib/
+mydemo/
+myenv/
+*.so
+*.dylib
